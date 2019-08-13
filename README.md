@@ -8,4 +8,4 @@ Android Sensor Mangager(Accelerometer), Timer as Gameloop,
 Fragments
 
 
-![Mask](../master/git-readme/Screen01.png)
+![Mask](../master/git-readme/Screen01.jpg)
