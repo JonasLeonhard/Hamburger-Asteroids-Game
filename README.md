@@ -3,7 +3,7 @@ A simple Hamburger Asteroids space shooter for Android. Written in Java - (Andro
 
 Using:
 Android Studio,
-Threads, Bluetooth Server / Socket,
+Threads, Bluetooth Server / Socket (Byte transfer),
 Android Sensor Mangager(Accelerometer), Timer as Gameloop,
 Fragments
 
